@@ -49,6 +49,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 2223390718947501156, guid: 79a628cb0ecc5f640a7684166b7c5982, type: 3}
+  tent: {fileID: 0}
   SPEED: 2
 --- !u!95 &3032578390488017068
 Animator:
@@ -105,7 +106,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingOrder: 10
   m_Sprite: {fileID: 21300018, guid: 7367abc9314f02528a112bb4586f0c53, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
